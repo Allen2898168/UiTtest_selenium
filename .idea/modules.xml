@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/requsts/.idea/CLGL.iml" filepath="D:/requsts/.idea/CLGL.iml" />
+      <module fileurl="file://D:/CLGL_requsts/.idea/CLGL.iml" filepath="D:/CLGL_requsts/.idea/CLGL.iml" />
+      <module fileurl="file://D:/CLGL/.idea/CLGL.iml" filepath="D:/CLGL/.idea/CLGL.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/.idea/PycharmProjects.iml" filepath="$USER_HOME$/PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/autotest/.idea/autotest.iml" filepath="$USER_HOME$/PycharmProjects/autotest/.idea/autotest.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/demo-python-project-master/.idea/demo-python-project-master.iml" filepath="$USER_HOME$/PycharmProjects/demo-python-project-master/.idea/demo-python-project-master.iml" />
+      <module fileurl="file://E:/py/.idea/py.iml" filepath="E:/py/.idea/py.iml" />
+      <module fileurl="file://D:/pydj/.idea/pydj.iml" filepath="D:/pydj/.idea/pydj.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/requests框架/.idea/requests框架.iml" filepath="$USER_HOME$/PycharmProjects/requests框架/.idea/requests框架.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled1.iml" filepath="$PROJECT_DIR$/.idea/untitled1.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/untitled4/.idea/untitled4.iml" filepath="$USER_HOME$/PycharmProjects/untitled4/.idea/untitled4.iml" />
+    </modules>
+  </component>
+</project>
